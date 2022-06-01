@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Guess Me</string>
+    <string-array name="options">
+        <item>Animals</item>
+        <item>Fruits</item>
+        <item>Numbers</item>
+    </string-array>
+
+</resources>
